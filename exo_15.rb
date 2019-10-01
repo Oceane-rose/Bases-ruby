@@ -1,6 +1,5 @@
 puts "Ecrire ton année de naissance"
 birth = gets.chomp. to_i
-now = 2019
 age = 0
  
 for birth in birth..2019 do
